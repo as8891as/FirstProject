@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //TODO //add another remark
+        //TODO //commit and send to Albert
     }
 }
